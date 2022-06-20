@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nleahkiarie
-- 👀 I’m interested in sapp development and web design
+- 👀 I’m interested in UI/UX design and web design
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me, email @ nleahkiarie@gmail.com
