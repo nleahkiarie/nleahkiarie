@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nleahkiarie
-- 👀 I’m interested in UI/UX design and web design
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on
+- 👀 I’m interested in Data science and machine learning
+- 🌱 I’m currently working on machine learning skills and techniques
+- 💞️ I’m looking to collaborate on predictive analysis on machine learning
 - 📫 How to reach me, email @ nleahkiarie@gmail.com
 
 <!---
